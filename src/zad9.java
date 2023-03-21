@@ -3,8 +3,8 @@ public class zad9 {
         String  name = "Bartek";
 
         int age = 19;
-        Double annualpay = 150000;
-                System.out.println("Jestem :" + name "mam: "+ "age" + age "chcialbym zarabiac : "+ annualpay);
+        int annualpay = 150000;
+                System.out.println("Jestem :" + name+ "mam: "+ "age" + age +"chcialbym zarabiac : "+ annualpay);
 
     }
 }
